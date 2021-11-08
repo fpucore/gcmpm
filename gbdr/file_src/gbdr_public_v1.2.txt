@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet" type="text/css" />
-
 Global Business Database Register - Public Database v1.2
 
 ABC Integrated - [LABRADOR, AUSTRALIA] | 2404303537553952 [PUBLIC KEY]
